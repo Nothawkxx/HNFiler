@@ -42,7 +42,7 @@ Kontakt Os Via Disse Mugligheder:
 
 * Vores Discord: https://discord.gg/PJMVeUjuGV
 * Mail: NotHawkxx@gmail.com
-Vi Svarer så hurtigt vi kan!
+* Vi Svarer så hurtigt vi kan!
 
 
 ## 📜 Regler for brug
