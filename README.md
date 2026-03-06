@@ -36,6 +36,15 @@ Start Med At:
 * Ændrer Logo
 * Tilykke Filerne Er Nu Opsat!!!
 
+## 📧 Kontakt
+
+Kontakt Os Via Disse Mugligheder:
+
+* Vores Discord: https://discord.gg/PJMVeUjuGV
+* Mail: NotHawkxx@gmail.com
+Vi Svarer så hurtigt vi kan!
+
+
 ## 📜 Regler for brug
 
 Det eneste krav er, at du **ikke fjerner den originale credit** eller påstår, at du selv har lavet filerne.
