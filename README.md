@@ -21,6 +21,21 @@ Du har fuld tilladelse til at:
 * Dele filerne videre
 * Leake filerne
 
+## 🧰 Opsætning Af Filerne
+
+Start Med At:
+
+* Joine HN Productions Discord
+* Download Port Åbner (Kør Filen På FjernSkrivebord)
+* Download HN Filer v1
+* Download Artifacts (https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/)
+* Lav En Folder Der Hedder Artifacts og smid dem derind
+* Download & Kør XAMPP (https://www.apachefriends.org/download.html)
+* Gå Ind på Admin og import database.sql
+* Konfigurer Server.cfg Filen til dit behov
+* Ændrer Logo
+* Tilykke Filerne Er Nu Opsat!!!
+
 ## 📜 Regler for brug
 
 Det eneste krav er, at du **ikke fjerner den originale credit** eller påstår, at du selv har lavet filerne.
